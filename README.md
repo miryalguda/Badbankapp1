@@ -11,7 +11,7 @@ Badbank is a full stack application developed by using MERN (mongoDB, express, R
 Git clone this repo to your local machine and run it on your IDE.  Please make sure all the dependencies are installed.  
 
 
-### Techologies and Libraries used:
+### Techologies and Libraries used
 React JS,
 NodeJS,
 Express,
